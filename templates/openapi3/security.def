@@ -1,4 +1,3 @@
-<section>
 
 # Authentication
 
@@ -28,4 +27,3 @@
 {{?}}
 {{ } /* of securitySchemes */ }}
 
-</section>
